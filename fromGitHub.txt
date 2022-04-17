@@ -1,0 +1,4 @@
+This is an awesome file i added directly from GitHub.com
+And now i am about to commit directly to GitHub.com remote repository
+This is not something we would do normally
+We are jyst trying simulate a situation
